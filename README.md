@@ -5,6 +5,7 @@
 3. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
 4. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature)
 5. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+6. [RGB color codes](https://rgbcolorcode.com/)
 
 ### Contributors
 
