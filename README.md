@@ -7,6 +7,7 @@
 5. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 6. [RGB color codes](https://rgbcolorcode.com/)
 7. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398/)
+8. [Github Docs](https://docs.github.com/en/get-started/quickstart)
 
 ### Contributors
 
