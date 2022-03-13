@@ -6,6 +6,7 @@
 4. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature)
 5. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 6. [RGB color codes](https://rgbcolorcode.com/)
+7. [Github Docs](https://docs.github.com/en/get-started/quickstart)
 
 ### Contributors
 
