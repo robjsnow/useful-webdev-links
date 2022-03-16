@@ -9,7 +9,7 @@
 7. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398/)
 8. [Github Docs](https://docs.github.com/en/get-started/quickstart)
 9. [W3Schools](https://www.w3schools.com/)
-
+10. [Stack Overflow](https://stackoverflow.com/)
 ### Contributors
 
 - Robert Snow
