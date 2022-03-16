@@ -10,6 +10,10 @@
 8. [Github Docs](https://docs.github.com/en/get-started/quickstart)
 9. [W3Schools](https://www.w3schools.com/)
 10. [Stack Overflow](https://stackoverflow.com/)
+11. [Visual Studio Code IDE](https://code.visualstudio.com/)
+12. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+13. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ### Contributors
 
 - Robert Snow
