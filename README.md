@@ -15,6 +15,7 @@
 13. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 14. [FreeCodeCamp](https://www.freecodecamp.org/)
 15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+16. [ The Odin Project](https://www.theodinproject.com/)
 
 ### Contributors
 
