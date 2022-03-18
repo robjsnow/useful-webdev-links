@@ -19,6 +19,7 @@
 17. [javascript info](https://javascript.info/)
 18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
+20. [Javascript book](https://eloquentjavascript.net)
 
 ### Contributors
 
