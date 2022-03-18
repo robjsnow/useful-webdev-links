@@ -17,6 +17,7 @@
 15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 16. [ The Odin Project](https://www.theodinproject.com/)
 17. [javascript info](https://javascript.info/)
+18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 
 ### Contributors
 
