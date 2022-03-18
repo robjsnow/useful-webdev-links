@@ -14,6 +14,7 @@
 12. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 13. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 14. [FreeCodeCamp](https://www.freecodecamp.org/)
+15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 
 ### Contributors
 
