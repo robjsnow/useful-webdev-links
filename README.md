@@ -20,6 +20,7 @@
 18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
 20. [Javascript book](https://eloquentjavascript.net)
+21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 
 ### Contributors
 
