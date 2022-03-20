@@ -30,7 +30,7 @@
 28. [CSS grid garden](https://cssgridgarden.com)
 29. [Google fonts](https://fonts.google.com)
 30. [CSS gradient](https://cssgradients.io)
-31. [freely usable images](https://unsplash.com)
+31. [Freely usable images](https://unsplash.com)
 32. [free stock photos](https://pexels.com)
 33. [opensource animation file format](https://lottiefiles.com)
 
