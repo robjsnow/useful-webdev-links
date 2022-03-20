@@ -32,6 +32,7 @@
 30. [css gradient](https://cssgradients.io)
 31. [freely usable images](https://unsplash.com)
 32. [free stock photos](https://pexels.com)
+33. [opensource animation file format](https://lottiefiles.com)
 
 ### Contributors
 
