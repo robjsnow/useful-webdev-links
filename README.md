@@ -16,8 +16,25 @@
 14. [FreeCodeCamp](https://www.freecodecamp.org/)
 15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 16. [ The Odin Project](https://www.theodinproject.com/)
-17. [javascript info](https://javascript.info/)
-18. [Hackernoon](https://hackernoon.com/)
+17. [Javascript info](https://javascript.info/)
+18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+19. [Full Stack Open 2022](https://fullstackopen.com/en/)
+20. [Javascript book](https://eloquentjavascript.net)
+21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+22. [Roadmap for Backend](https://roadmap.sh/backend)
+23. [Roadmap for Frontend](https://roadmap.sh/frontend)
+24. [Coding projects](https://www.frontendmentor.io/challenges)
+25. [Coding challenges](https://devchallenges.io/)
+26. [Flexbox froggy](https://flexboxfroggy.com/)
+27. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
+28. [CSS grid garden](https://cssgridgarden.com)
+29. [Google fonts](https://fonts.google.com)
+30. [CSS gradient](https://cssgradients.io)
+31. [Freely usable images](https://unsplash.com)
+32. [Free stock photos](https://pexels.com)
+33. [Opensource animation file format](https://lottiefiles.com)
+34. [Hackernoon](https://hackernoon.com/)
+
 
 ### Contributors
 
