@@ -23,6 +23,7 @@
 21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 22. [Roadmap for Backend](https://roadmap.sh/backend)
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
+24. [coding projects](https://www.frontendmentor.io/challenges)
 
 ### Contributors
 
