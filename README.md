@@ -25,7 +25,7 @@
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
 24. [coding projects](https://www.frontendmentor.io/challenges)
 25. [coding challenges](https://devchallenges.io/)
-26. [flexbox froggy(https://flexboxfroggy.com/)
+26. [flexbox froggy](https://flexboxfroggy.com/)
 
 ### Contributors
 
