@@ -34,7 +34,7 @@
 32. [Free stock photos](https://pexels.com)
 33. [Opensource animation file format](https://lottiefiles.com)
 34. [Hackernoon](https://hackernoon.com/)
-
+35. [learn CSS grid](https://learncssgrid.com)
 
 ### Contributors
 
