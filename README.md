@@ -23,7 +23,7 @@
 21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 22. [Roadmap for Backend](https://roadmap.sh/backend)
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
-24. [coding projects](https://www.frontendmentor.io/challenges)
+24. [Coding projects](https://www.frontendmentor.io/challenges)
 25. [coding challenges](https://devchallenges.io/)
 26. [flexbox froggy](https://flexboxfroggy.com/)
 27. [flexbox zombie](https://mastery.games/post/flexboxzombies2/)
