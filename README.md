@@ -35,6 +35,7 @@
 33. [Opensource animation file format](https://lottiefiles.com)
 34. [Hackernoon](https://hackernoon.com/)
 35. [learn CSS grid](https://learncssgrid.com)
+36. [Remove Background from images](https://www.remove.bg/)
 
 ### Contributors
 
