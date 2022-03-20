@@ -31,6 +31,7 @@
 29. [google fonts](https://fonts.google.com)
 30. [css gradient](https://cssgradients.io)
 31. [freely usable images](https://unsplash.com)
+32. [free stock photos](https://pexels.com)
 
 ### Contributors
 
