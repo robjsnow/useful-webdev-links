@@ -28,7 +28,7 @@
 26. [Flexbox froggy](https://flexboxfroggy.com/)
 27. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 28. [CSS grid garden](https://cssgridgarden.com)
-29. [google fonts](https://fonts.google.com)
+29. [Google fonts](https://fonts.google.com)
 30. [css gradient](https://cssgradients.io)
 31. [freely usable images](https://unsplash.com)
 32. [free stock photos](https://pexels.com)
