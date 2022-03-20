@@ -27,7 +27,7 @@
 25. [Coding challenges](https://devchallenges.io/)
 26. [Flexbox froggy](https://flexboxfroggy.com/)
 27. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
-28. [css grid garden](https://cssgridgarden.com)
+28. [CSS grid garden](https://cssgridgarden.com)
 29. [google fonts](https://fonts.google.com)
 30. [css gradient](https://cssgradients.io)
 31. [freely usable images](https://unsplash.com)
