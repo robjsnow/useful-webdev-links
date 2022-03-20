@@ -24,6 +24,7 @@
 22. [Roadmap for Backend](https://roadmap.sh/backend)
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
 24. [coding projects](https://www.frontendmentor.io/challenges)
+25. [coding challenges](https://devchallenges.io/)
 
 ### Contributors
 
