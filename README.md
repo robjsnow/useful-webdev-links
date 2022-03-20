@@ -16,7 +16,7 @@
 14. [FreeCodeCamp](https://www.freecodecamp.org/)
 15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 16. [ The Odin Project](https://www.theodinproject.com/)
-17. [javascript info](https://javascript.info/)
+17. [Javascript info](https://javascript.info/)
 18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
 20. [Javascript book](https://eloquentjavascript.net)
