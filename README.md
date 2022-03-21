@@ -16,7 +16,11 @@
 2. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 3. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
 4. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-
+5. [Stack Overflow](https://stackoverflow.com/)
+6. [Github Docs](https://docs.github.com/en/get-started/quickstart)
+7. [Visual Studio Code IDE](https://code.visualstudio.com/)
+8. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+9. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -25,14 +29,6 @@
 
 
 
-
-
-8. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-
-10. [Stack Overflow](https://stackoverflow.com/)
-11. [Visual Studio Code IDE](https://code.visualstudio.com/)
-12. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-13. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 
 
