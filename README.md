@@ -38,19 +38,12 @@
 
 
 ## Coding Challenges
-
-
-
-
+1. [Coding projects](https://www.frontendmentor.io/challenges)
+2. [Coding challenges](https://devchallenges.io/)
 
 
 
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
-
-24. [Coding projects](https://www.frontendmentor.io/challenges)
-25. [Coding challenges](https://devchallenges.io/)
-
-
 
 31. [Freely usable images](https://unsplash.com)
 32. [Free stock photos](https://pexels.com)
