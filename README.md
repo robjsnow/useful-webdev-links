@@ -11,6 +11,7 @@
 2. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 3. [CSS grid garden](https://cssgridgarden.com)
 
+
 ## Resources
 1. [Pixel to EM converter](http://pxtoem.com/)
 2. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
@@ -21,6 +22,8 @@
 7. [Visual Studio Code IDE](https://code.visualstudio.com/)
 8. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 9. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+10. [Javascript info](https://javascript.info/)
+11. [Javascript book](https://eloquentjavascript.net)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -32,10 +35,10 @@
 
 
 
-17. [Javascript info](https://javascript.info/)
+
 18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
-20. [Javascript book](https://eloquentjavascript.net)
+
 21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 22. [Roadmap for Backend](https://roadmap.sh/backend)
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
