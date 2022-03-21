@@ -41,6 +41,7 @@
 6. [Freely usable images](https://unsplash.com)
 7. [Free stock photos](https://pexels.com)
 8. [Opensource animation file format](https://lottiefiles.com)
+9. [Remove Background from images](https://www.remove.bg/)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
@@ -53,7 +54,7 @@
 
 
 
-36. [Remove Background from images](https://www.remove.bg/)
+
 37. [Many Pixels](https://manypixels.co/gallery)
 38. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 39. [Create customizable illustrations](https://blush.design)
