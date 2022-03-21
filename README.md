@@ -7,10 +7,9 @@
 4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 
 ## Games
-1.[Flexbox froggy](https://flexboxfroggy.com/)
-2.
-3.
-4.
+1. [Flexbox froggy](https://flexboxfroggy.com/)
+2. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
+3. [CSS grid garden](https://cssgridgarden.com)
 
 ## Resources
 
@@ -43,8 +42,8 @@
 24. [Coding projects](https://www.frontendmentor.io/challenges)
 25. [Coding challenges](https://devchallenges.io/)
 
-27. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
-28. [CSS grid garden](https://cssgridgarden.com)
+
+
 29. [Google fonts](https://fonts.google.com)
 30. [CSS gradient](https://cssgradients.io)
 31. [Freely usable images](https://unsplash.com)
