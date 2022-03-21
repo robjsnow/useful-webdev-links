@@ -31,6 +31,8 @@
 13. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 14. [Hackernoon](https://hackernoon.com/)
 15. [learn CSS grid](https://learncssgrid.com)
+16. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -58,7 +60,7 @@
 
 
 
-38. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+
 39. [Create customizable illustrations](https://blush.design)
 
 ### Contributors
