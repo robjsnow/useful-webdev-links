@@ -36,7 +36,9 @@
 3. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
 4. [Google fonts](https://fonts.google.com)
 5. [CSS gradient](https://cssgradients.io)
-
+6. [Freely usable images](https://unsplash.com)
+7. [Free stock photos](https://pexels.com)
+8. [Opensource animation file format](https://lottiefiles.com)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
@@ -46,9 +48,7 @@
 
 
 
-31. [Freely usable images](https://unsplash.com)
-32. [Free stock photos](https://pexels.com)
-33. [Opensource animation file format](https://lottiefiles.com)
+
 34. [Hackernoon](https://hackernoon.com/)
 35. [learn CSS grid](https://learncssgrid.com)
 36. [Remove Background from images](https://www.remove.bg/)
