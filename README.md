@@ -51,6 +51,7 @@
 1. [Coding projects](https://www.frontendmentor.io/challenges)
 2. [Coding challenges](https://devchallenges.io/)
 
+## Software and Extensions
 
 ### Contributors
 
