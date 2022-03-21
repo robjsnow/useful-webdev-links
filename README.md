@@ -15,21 +15,21 @@
 3. [CSS grid garden](https://cssgridgarden.com)
 
 
-## References
-1. [Pixel to EM converter](http://pxtoem.com/)
-2. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-3. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
-4. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-5. [Stack Overflow](https://stackoverflow.com/)
-6. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-7. [Javascript info](https://javascript.info/)
-8. [Javascript book](https://eloquentjavascript.net)
-9. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-10. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
-11. [Hackernoon](https://hackernoon.com/)
-12. [learn CSS grid](https://learncssgrid.com)
-13. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+## Reference Documents
+1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+2. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
+3. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+4. [Stack Overflow](https://stackoverflow.com/)
+5. [Github Docs](https://docs.github.com/en/get-started/quickstart)
+6. [Javascript info](https://javascript.info/)
+7. [Javascript book](https://eloquentjavascript.net)
+8. [Hackernoon](https://hackernoon.com/)
+9. [learn CSS grid](https://learncssgrid.com)
+10. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 
+## Tools
+1. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+2. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -43,6 +43,7 @@
 9. [Remove Background from images](https://www.remove.bg/)
 10. [Many Pixels](https://manypixels.co/gallery)
 11. [Create customizable illustrations](https://blush.design)
+12. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
