@@ -14,7 +14,6 @@
 2. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 3. [CSS grid garden](https://cssgridgarden.com)
 
-
 ## Reference Documents
 1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 2. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
@@ -30,6 +29,7 @@
 ## Tools
 1. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 2. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+3. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -43,7 +43,6 @@
 9. [Remove Background from images](https://www.remove.bg/)
 10. [Many Pixels](https://manypixels.co/gallery)
 11. [Create customizable illustrations](https://blush.design)
-12. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
