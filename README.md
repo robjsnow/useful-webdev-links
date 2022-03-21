@@ -34,7 +34,7 @@
 2. [RGB color codes](https://rgbcolorcode.com/)
 3. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
 4. [Google fonts](https://fonts.google.com)
-
+5. [CSS gradient](https://cssgradients.io)
 
 
 
@@ -47,7 +47,7 @@
 25. [Coding challenges](https://devchallenges.io/)
 
 
-30. [CSS gradient](https://cssgradients.io)
+
 31. [Freely usable images](https://unsplash.com)
 32. [Free stock photos](https://pexels.com)
 33. [Opensource animation file format](https://lottiefiles.com)
