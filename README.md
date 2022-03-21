@@ -29,6 +29,8 @@
 11. [Javascript book](https://eloquentjavascript.net)
 12. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 13. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+14. [Hackernoon](https://hackernoon.com/)
+15. [learn CSS grid](https://learncssgrid.com)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -49,8 +51,8 @@
 
 
 
-34. [Hackernoon](https://hackernoon.com/)
-35. [learn CSS grid](https://learncssgrid.com)
+
+
 36. [Remove Background from images](https://www.remove.bg/)
 37. [Many Pixels](https://manypixels.co/gallery)
 38. [Articles and learning platform](https://geeksforgeeks.org/web-development)
