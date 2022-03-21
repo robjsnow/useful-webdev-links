@@ -5,6 +5,8 @@
 2. [ The Odin Project](https://www.theodinproject.com/)
 3. [FreeCodeCamp](https://www.freecodecamp.org/)
 4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+5. [Roadmap for Backend](https://roadmap.sh/backend)
+6. [Roadmap for Frontend](https://roadmap.sh/frontend)
 
 ## Games
 1. [Flexbox froggy](https://flexboxfroggy.com/)
@@ -24,6 +26,8 @@
 9. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 10. [Javascript info](https://javascript.info/)
 11. [Javascript book](https://eloquentjavascript.net)
+12. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+13. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
@@ -36,16 +40,11 @@
 
 
 
-18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
-21. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-22. [Roadmap for Backend](https://roadmap.sh/backend)
-23. [Roadmap for Frontend](https://roadmap.sh/frontend)
 24. [Coding projects](https://www.frontendmentor.io/challenges)
 25. [Coding challenges](https://devchallenges.io/)
-
-
 
 29. [Google fonts](https://fonts.google.com)
 30. [CSS gradient](https://cssgradients.io)
