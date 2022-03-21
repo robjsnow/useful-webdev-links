@@ -7,6 +7,7 @@
 4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 5. [Roadmap for Backend](https://roadmap.sh/backend)
 6. [Roadmap for Frontend](https://roadmap.sh/frontend)
+7. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
 1. [Flexbox froggy](https://flexboxfroggy.com/)
@@ -43,7 +44,7 @@
 
 
 
-19. [Full Stack Open 2022](https://fullstackopen.com/en/)
+
 
 31. [Freely usable images](https://unsplash.com)
 32. [Free stock photos](https://pexels.com)
