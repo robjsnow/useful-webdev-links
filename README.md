@@ -22,9 +22,7 @@
 4. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 5. [Stack Overflow](https://stackoverflow.com/)
 6. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-7. [Visual Studio Code IDE](https://code.visualstudio.com/)
-8. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-9. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 10. [Javascript info](https://javascript.info/)
 11. [Javascript book](https://eloquentjavascript.net)
 12. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
@@ -52,7 +50,9 @@
 2. [Coding challenges](https://devchallenges.io/)
 
 ## Software and Extensions
-
+1. [Visual Studio Code IDE](https://code.visualstudio.com/)
+2. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+3. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 ### Contributors
 
 - Robert Snow
