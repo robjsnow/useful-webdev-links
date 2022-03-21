@@ -45,23 +45,12 @@
 8. [Opensource animation file format](https://lottiefiles.com)
 9. [Remove Background from images](https://www.remove.bg/)
 10. [Many Pixels](https://manypixels.co/gallery)
-
+11. [Create customizable illustrations](https://blush.design)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
 2. [Coding challenges](https://devchallenges.io/)
 
-
-
-
-
-
-
-
-
-
-
-39. [Create customizable illustrations](https://blush.design)
 
 ### Contributors
 
