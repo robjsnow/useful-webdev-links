@@ -6,9 +6,16 @@
 3. [FreeCodeCamp](https://www.freecodecamp.org/)
 4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
 
+## Games
+1.[Flexbox froggy](https://flexboxfroggy.com/)
+2.
+3.
+4.
 
 ## Resources
+
 ## Design Tools
+
 
 1. [Pixel to EM converter](http://pxtoem.com/)
 2. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
@@ -35,7 +42,7 @@
 23. [Roadmap for Frontend](https://roadmap.sh/frontend)
 24. [Coding projects](https://www.frontendmentor.io/challenges)
 25. [Coding challenges](https://devchallenges.io/)
-26. [Flexbox froggy](https://flexboxfroggy.com/)
+
 27. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 28. [CSS grid garden](https://cssgridgarden.com)
 29. [Google fonts](https://fonts.google.com)
