@@ -1,6 +1,12 @@
 # Useful web development links!
 
 ## Training
+1. [W3Schools](https://www.w3schools.com/)
+2. [ The Odin Project](https://www.theodinproject.com/)
+3. [FreeCodeCamp](https://www.freecodecamp.org/)
+4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+
+
 ## Resources
 ## Design Tools
 
@@ -12,14 +18,14 @@
 6. [RGB color codes](https://rgbcolorcode.com/)
 7. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
 8. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-9. [W3Schools](https://www.w3schools.com/)
+
 10. [Stack Overflow](https://stackoverflow.com/)
 11. [Visual Studio Code IDE](https://code.visualstudio.com/)
 12. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 13. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-14. [FreeCodeCamp](https://www.freecodecamp.org/)
-15. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-16. [ The Odin Project](https://www.theodinproject.com/)
+
+
+
 17. [Javascript info](https://javascript.info/)
 18. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 19. [Full Stack Open 2022](https://fullstackopen.com/en/)
