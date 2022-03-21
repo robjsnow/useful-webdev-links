@@ -15,8 +15,8 @@
 3. [CSS grid garden](https://cssgridgarden.com)
 
 ## Reference Documents
-1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-2. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
+1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/
+2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 3. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 4. [Stack Overflow](https://stackoverflow.com/)
 5. [Github Docs](https://docs.github.com/en/get-started/quickstart)
@@ -24,12 +24,12 @@
 7. [Javascript book](https://eloquentjavascript.net)
 8. [Hackernoon](https://hackernoon.com/)
 9. [learn CSS grid](https://learncssgrid.com)
-10. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 
 ## Tools
 1. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 2. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 3. [Pixel to EM converter](http://pxtoem.com/)
+4. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
