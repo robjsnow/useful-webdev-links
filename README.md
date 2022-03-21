@@ -15,21 +15,20 @@
 3. [CSS grid garden](https://cssgridgarden.com)
 
 
-## Resources
+## References
 1. [Pixel to EM converter](http://pxtoem.com/)
 2. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 3. [Check the markup (HTML, XHTML, …) of Web documents](https://validator.w3.org/#validate_by_input/)
 4. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 5. [Stack Overflow](https://stackoverflow.com/)
 6. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-
-10. [Javascript info](https://javascript.info/)
-11. [Javascript book](https://eloquentjavascript.net)
-12. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-13. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
-14. [Hackernoon](https://hackernoon.com/)
-15. [learn CSS grid](https://learncssgrid.com)
-16. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+7. [Javascript info](https://javascript.info/)
+8. [Javascript book](https://eloquentjavascript.net)
+9. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+10. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+11. [Hackernoon](https://hackernoon.com/)
+12. [learn CSS grid](https://learncssgrid.com)
+13. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 
 
 ## Design Tools
@@ -53,6 +52,8 @@
 1. [Visual Studio Code IDE](https://code.visualstudio.com/)
 2. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 3. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+
 ### Contributors
 
 - Robert Snow
