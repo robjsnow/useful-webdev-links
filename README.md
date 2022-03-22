@@ -48,6 +48,7 @@
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
 2. [Coding challenges](https://devchallenges.io/)
+3. [Daily UI](https://www.dailyui.co/)
 
 ## Software and Extensions
 1. [Visual Studio Code IDE](https://code.visualstudio.com/)
