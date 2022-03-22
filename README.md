@@ -15,7 +15,7 @@
 3. [CSS grid garden](https://cssgridgarden.com)
 
 ## Reference Documents
-1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/
+1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 3. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 4. [Stack Overflow](https://stackoverflow.com/)
