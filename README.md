@@ -57,6 +57,7 @@
 3. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 4. [Atom](https://atom.io/)
 5. [VSCode Extension: Javascript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+6. [VSCode Extension: Better Comments ](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 
 ### Contributors
