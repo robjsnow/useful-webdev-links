@@ -50,6 +50,7 @@
 1. [Coding projects](https://www.frontendmentor.io/challenges)
 2. [Coding challenges](https://devchallenges.io/)
 3. [Daily UI](https://www.dailyui.co/)
+4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
 
 ## Software and Extensions
 1. [Visual Studio Code IDE](https://code.visualstudio.com/)
