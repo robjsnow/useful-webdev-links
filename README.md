@@ -44,6 +44,7 @@
 10. [Many Pixels](https://manypixels.co/gallery)
 11. [Create customizable illustrations](https://blush.design)
 12. [Scalable vector icons customizable](https://fontawesome.com/)
+13. [Icon library and toolkit](https://fontawesome.com/)
 
 ## Coding Challenges
 1. [Coding projects](https://www.frontendmentor.io/challenges)
