@@ -52,6 +52,7 @@
 1. [Visual Studio Code IDE](https://code.visualstudio.com/)
 2. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 3. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+4. [Atom](https://atom.io/)
 
 
 ### Contributors
