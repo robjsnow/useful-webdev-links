@@ -26,10 +26,10 @@
 9. [learn CSS grid](https://learncssgrid.com)
 
 ## Tools
-1. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
-2. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-3. [Pixel to EM converter](http://pxtoem.com/)
-4. [Markup Validator](https://validator.w3.org/#validate_by_input/)
+1. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
+2. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+3. [Markup Validator](https://validator.w3.org/#validate_by_input/)
+4. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Design Tools
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
