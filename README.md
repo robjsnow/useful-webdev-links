@@ -10,9 +10,9 @@
 7. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
-1. [Flexbox froggy](https://flexboxfroggy.com/)
-2. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
-3. [CSS grid garden](https://cssgridgarden.com)
+1. [CSS grid garden](https://cssgridgarden.com)
+2. [Flexbox froggy](https://flexboxfroggy.com/)
+3. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 
 ## Reference Documents
 1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
