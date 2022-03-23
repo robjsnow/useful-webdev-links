@@ -1,13 +1,13 @@
 # Useful web development links!
 
 ## Training
-1. [W3Schools](https://www.w3schools.com/)
-2. [ The Odin Project](https://www.theodinproject.com/)
-3. [FreeCodeCamp](https://www.freecodecamp.org/)
-4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-5. [Roadmap for Backend](https://roadmap.sh/backend)
-6. [Roadmap for Frontend](https://roadmap.sh/frontend)
-7. [Full Stack Open 2022](https://fullstackopen.com/en/)
+1. [FreeCodeCamp](https://www.freecodecamp.org/)
+2. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+3. [Full Stack Open 2022](https://fullstackopen.com/en/)
+4. [Roadmap for Backend](https://roadmap.sh/backend)
+5. [Roadmap for Frontend](https://roadmap.sh/frontend)
+6. [The Odin Project](https://www.theodinproject.com/)
+7. [W3Schools](https://www.w3schools.com/)
 
 ## Games
 1. [CSS grid garden](https://cssgridgarden.com)
