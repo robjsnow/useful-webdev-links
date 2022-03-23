@@ -15,15 +15,15 @@
 3. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 
 ## Reference Documents
-1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
-3. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-4. [Stack Overflow](https://stackoverflow.com/)
-5. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-6. [Javascript info](https://javascript.info/)
-7. [Javascript book](https://eloquentjavascript.net)
-8. [Hackernoon](https://hackernoon.com/)
-9. [learn CSS grid](https://learncssgrid.com)
+1. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+2. [Github Docs](https://docs.github.com/en/get-started/quickstart)
+3. [Hackernoon](https://hackernoon.com/)
+4. [Javascript book](https://eloquentjavascript.net)
+5. [Javascript info](https://javascript.info/)
+6. [learn CSS grid](https://learncssgrid.com)
+7. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
+8. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+9. [Stack Overflow](https://stackoverflow.com/)
 
 ## Tools
 1. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
