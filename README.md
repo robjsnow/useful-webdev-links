@@ -47,8 +47,8 @@
 13. [Icon library and toolkit](https://fontawesome.com/)
 
 ## Coding Challenges
-1. [Coding projects](https://www.frontendmentor.io/challenges)
-2. [Coding challenges](https://devchallenges.io/)
+1. [Coding challenges](https://devchallenges.io/)
+2. [Coding projects](https://www.frontendmentor.io/challenges) 
 3. [Daily UI](https://www.dailyui.co/)
 4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
 
