@@ -69,6 +69,10 @@
 7. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 8. [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+## Other / Misc
+
+1. [NPM package search](https://www.npmjs.com/)
+
 ### Contributors
 
 - Robert Snow
