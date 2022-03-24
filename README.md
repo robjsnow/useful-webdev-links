@@ -1,6 +1,7 @@
 # Useful web development links!
 
 ## Training
+
 1. [W3Schools](https://www.w3schools.com/)
 2. [ The Odin Project](https://www.theodinproject.com/)
 3. [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -10,11 +11,13 @@
 7. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
+
 1. [CSS grid garden](https://cssgridgarden.com)
 2. [Flexbox froggy](https://flexboxfroggy.com/)
 3. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 
 ## Reference Documents
+
 1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 3. [MDN Web Docs](https://developer.mozilla.org/en-US/)
@@ -26,12 +29,14 @@
 9. [learn CSS grid](https://learncssgrid.com)
 
 ## Tools
+
 1. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 2. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 3. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 4. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Design Tools
+
 1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
 2. [RGB color codes](https://rgbcolorcode.com/)
 3. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
@@ -47,20 +52,22 @@
 13. [Icon library and toolkit](https://fontawesome.com/)
 
 ## Coding Challenges
+
 1. [Coding projects](https://www.frontendmentor.io/challenges)
 2. [Coding challenges](https://devchallenges.io/)
 3. [Daily UI](https://www.dailyui.co/)
 4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
 
 ## Software and Extensions
-1. [Visual Studio Code IDE](https://code.visualstudio.com/)
+
+1. [Visual Studio Code Editor](https://code.visualstudio.com/)
 2. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 3. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 4. [Atom](https://atom.io/)
 5. [VSCode Extension: Javascript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 6. [VSCode Extension: Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 7. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-
+8. [VSCode Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ### Contributors
 
