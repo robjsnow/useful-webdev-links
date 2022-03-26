@@ -37,6 +37,7 @@
 8. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 9. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 10. [Stack Overflow](https://stackoverflow.com/)
+11. [Web field Manual](https://webfieldmanual.com/code)
 
 
 ## Tools
