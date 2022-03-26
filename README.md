@@ -60,7 +60,7 @@
 5. [VSCode Extension: Javascript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 6. [VSCode Extension: Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 7. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-
+8. [VSCode Extension : ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ### Contributors
 
