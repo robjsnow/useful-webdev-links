@@ -44,10 +44,11 @@
 
 1. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 2. [CSS validator](https://codebeautify.org/cssvalidate)
-3. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
-4. [Markup Validator](https://validator.w3.org/#validate_by_input/)
-5. [Pixel to EM converter](http://pxtoem.com/)
-6. [Down Detector](https://downdetector.com/)
+3. [Down Detector](https://downdetector.com/)
+4. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+5. [Markup Validator](https://validator.w3.org/#validate_by_input/)
+6. [Pixel to EM converter](http://pxtoem.com/)
+
 
 ## Design Tools
 
