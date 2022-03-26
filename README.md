@@ -18,16 +18,17 @@
 
 ## Reference Documents
 
-1. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-2. [Articles and webdesign library](https://www.webdesign.org/)
-3. [Articles and learning platform](https://geeksforgeeks.org/web-development)
-4. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-5. [Stack Overflow](https://stackoverflow.com/)
-6. [Github Docs](https://docs.github.com/en/get-started/quickstart)
-7. [Javascript info](https://javascript.info/)
-8. [Javascript book](https://eloquentjavascript.net)
-9. [Hackernoon](https://hackernoon.com/)
-10. [learn CSS grid](https://learncssgrid.com)
+1. [Articles and webdesign library](https://www.webdesign.org/)
+2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
+3. [Github Docs](https://docs.github.com/en/get-started/quickstart)
+4. [Hackernoon](https://hackernoon.com/)
+5. [Javascript book](https://eloquentjavascript.net)
+6. [Javascript info](https://javascript.info/)
+7. [learn CSS grid](https://learncssgrid.com)
+8. [Markdown Guide and cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+9. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+10. [Stack Overflow](https://stackoverflow.com/)
+
 
 ## Tools
 
