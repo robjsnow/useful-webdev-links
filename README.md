@@ -43,9 +43,10 @@
 ## Tools
 
 1. [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-2. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
-3. [Markup Validator](https://validator.w3.org/#validate_by_input/)
-4. [Pixel to EM converter](http://pxtoem.com/)
+2. [CSS validator](https://codebeautify.org/cssvalidate)
+3. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
+4. [Markup Validator](https://validator.w3.org/#validate_by_input/)
+5. [Pixel to EM converter](http://pxtoem.com/)
 
 ## Design Tools
 
