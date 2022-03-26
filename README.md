@@ -47,6 +47,7 @@
 3. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 4. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 5. [Pixel to EM converter](http://pxtoem.com/)
+6. [Down Detector](https://downdetector.com/)
 
 ## Design Tools
 
@@ -87,7 +88,7 @@
 ## Other / Misc
 
 1. [NPM package search](https://www.npmjs.com/)
-
+   
 ### Contributors
 
 - Robert Snow
