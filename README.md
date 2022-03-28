@@ -10,14 +10,13 @@
 6. [The Odin Project](https://www.theodinproject.com/)
 7. [W3Schools](https://www.w3schools.com/)
 
-
-1. [W3Schools](https://www.w3schools.com/)
-2. [ The Odin Project](https://www.theodinproject.com/)
-3. [FreeCodeCamp](https://www.freecodecamp.org/)
-4. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-5. [Roadmap for Backend](https://roadmap.sh/backend)
-6. [Roadmap for Frontend](https://roadmap.sh/frontend)
-7. [Full Stack Open 2022](https://fullstackopen.com/en/)
+8. [W3Schools](https://www.w3schools.com/)
+9. [ The Odin Project](https://www.theodinproject.com/)
+10. [FreeCodeCamp](https://www.freecodecamp.org/)
+11. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+12. [Roadmap for Backend](https://roadmap.sh/backend)
+13. [Roadmap for Frontend](https://roadmap.sh/frontend)
+14. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
 
@@ -38,7 +37,7 @@
 9. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 10. [Stack Overflow](https://stackoverflow.com/)
 11. [Web field Manual](https://webfieldmanual.com/code)
-
+12. [Open source dev resources](https://www.devresourc.es/)
 
 ## Tools
 
