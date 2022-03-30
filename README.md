@@ -9,14 +9,9 @@
 5. [Roadmap for Frontend](https://roadmap.sh/frontend)
 6. [The Odin Project](https://www.theodinproject.com/)
 7. [W3Schools](https://www.w3schools.com/)
-
-8. [W3Schools](https://www.w3schools.com/)
-9. [ The Odin Project](https://www.theodinproject.com/)
-10. [FreeCodeCamp](https://www.freecodecamp.org/)
-11. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-12. [Roadmap for Backend](https://roadmap.sh/backend)
-13. [Roadmap for Frontend](https://roadmap.sh/frontend)
-14. [Full Stack Open 2022](https://fullstackopen.com/en/)
+8. [FreeCodeCamp](https://www.freecodecamp.org/)
+9. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+10. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
 
@@ -26,7 +21,7 @@
 
 ## Reference Documents
 
-1. [Articles and webdesign library](https://www.webdesign.org/)
+1. [Articles and web design library](https://www.webdesign.org/)
 2. [Articles and learning platform](https://geeksforgeeks.org/web-development)
 3. [Github Docs](https://docs.github.com/en/get-started/quickstart)
 4. [Hackernoon](https://hackernoon.com/)
@@ -58,7 +53,7 @@
 5. [CSS gradient](https://cssgradients.io)
 6. [Freely usable images](https://unsplash.com)
 7. [Free stock photos](https://pexels.com)
-8. [Opensource animation file format](https://lottiefiles.com)
+8. [Open source animation file format](https://lottiefiles.com)
 9. [Remove Background from images](https://www.remove.bg/)
 10. [Many Pixels](https://manypixels.co/gallery)
 11. [Create customizable illustrations](https://blush.design)
