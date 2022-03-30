@@ -8,10 +8,9 @@
 4. [Roadmap for Backend](https://roadmap.sh/backend)
 5. [Roadmap for Frontend](https://roadmap.sh/frontend)
 6. [The Odin Project](https://www.theodinproject.com/)
-7. [W3Schools](https://www.w3schools.com/)
-8. [FreeCodeCamp](https://www.freecodecamp.org/)
-9. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-10. [Full Stack Open 2022](https://fullstackopen.com/en/)
+7. [FreeCodeCamp](https://www.freecodecamp.org/)
+8. [Frontend Masters](https://frontendmasters.com/bootcamp/)
+9. [Full Stack Open 2022](https://fullstackopen.com/en/)
 
 ## Games
 
