@@ -40,7 +40,7 @@
 4. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 5. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 6. [Pixel to EM converter](http://pxtoem.com/)
-
+7. [Emoji selector](https://emoji-button.js.org/)
 
 ## Design Tools
 
