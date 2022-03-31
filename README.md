@@ -10,8 +10,7 @@
 6. [The Odin Project](https://www.theodinproject.com/)
 7. [FreeCodeCamp](https://www.freecodecamp.org/)
 8. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-9. [Full Stack Open 2022](https://fullstackopen.com/en/)
-10. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+9. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 ## Games
 
