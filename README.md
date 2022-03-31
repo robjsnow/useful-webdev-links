@@ -65,6 +65,7 @@
 2. [Coding challenges](https://devchallenges.io/)
 3. [Daily UI](https://www.dailyui.co/)
 4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
+5. [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 ## Software and Extensions
 
