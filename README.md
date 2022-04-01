@@ -57,6 +57,7 @@
 11. [Create customizable illustrations](https://blush.design)
 12. [Scalable vector icons customizable](https://fontawesome.com/)
 13. [Icon library and toolkit](https://fontawesome.com/)
+14. [SVG and CSS mesh gradient generator](https://sidebar.io/domain/color-morph.com)
 
 ## Coding Challenges
 
