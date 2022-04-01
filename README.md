@@ -89,6 +89,10 @@
 2. [Behance](https://www.behance.net/)
 3. [Dribbble](https://dribbble.com/)
 
+#UX/UI design
+
+1. [Resources related to user experience](https://uxplanet.org/)
+
 ## Youtube Channels
 
 1. [Google Developers](https://www.youtube.com/googlecode/videos)
