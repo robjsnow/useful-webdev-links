@@ -90,7 +90,7 @@
 2. [Behance](https://www.behance.net/)
 3. [Dribbble](https://dribbble.com/)
 
-#UX/UI design
+## UX/UI design
 
 1. [Resources related to user experience](https://uxplanet.org/)
 
