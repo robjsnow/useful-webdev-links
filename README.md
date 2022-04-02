@@ -8,8 +8,7 @@
 4. [Roadmap for Backend](https://roadmap.sh/backend)
 5. [Roadmap for Frontend](https://roadmap.sh/frontend)
 6. [The Odin Project](https://www.theodinproject.com/)
-7. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-8. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+7. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 ## Games
 
