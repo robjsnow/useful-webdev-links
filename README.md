@@ -92,7 +92,7 @@
 
 ## UX/UI design
 
-1. [Resources related to user experience](https://uxplanet.org/)
+1. [UX Planet](https://uxplanet.org/)
 
 ## Youtube Channels
 
