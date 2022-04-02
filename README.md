@@ -83,6 +83,7 @@
 ## Other / Misc
 
 1. [NPM package search](https://www.npmjs.com/)
+2. [REPL Read-Eval-Print-Loop JS](https://repljs.com/)
 
 ## Networking/job boards
 
