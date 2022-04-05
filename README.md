@@ -39,7 +39,7 @@
 4. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 5. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 6. [Pixel to EM converter](http://pxtoem.com/)
-7. [Emoji selector](https://emoji-button.js.org/)
+
 
 ## Design Tools
 
@@ -58,6 +58,7 @@
 13. [Icon library and toolkit](https://fontawesome.com/)
 14. [SVG and CSS mesh gradient generator](https://sidebar.io/domain/color-morph.com)
 15. [CSS button generator](https://css3buttongenerator.com/)
+16. [Emoji selector](https://emoji-button.js.org/)
 
 ## Coding Challenges
 
