@@ -57,7 +57,7 @@
 11. [Create customizable illustrations](https://blush.design)
 12. [Scalable vector icons customizable](https://fontawesome.com/)
 13. [Icon library and toolkit](https://fontawesome.com/)
-14. [SVG and CSS mesh gradient generator](https://sidebar.io/domain/color-morph.com)
+14. [SVG and CSS mesh gradient generator](https://www.color-morph.com/?ref=sidebar)
 
 ## Coding Challenges
 
@@ -66,6 +66,7 @@
 3. [Daily UI](https://www.dailyui.co/)
 4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
 5. [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+6. [codewars](https://www.codewars.com/)
 
 ## Software and Extensions
 
