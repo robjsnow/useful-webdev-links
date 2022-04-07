@@ -102,6 +102,7 @@
 ## Youtube Channels
 
 1. [Google Developers](https://www.youtube.com/googlecode/videos)
+2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
 
 ### Contributors
 
