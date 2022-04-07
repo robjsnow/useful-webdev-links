@@ -69,6 +69,7 @@
 5. [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 6. [Codewars](https://www.codewars.com/)
 7. [Codingame](https://www.codingame.com/start)
+8. [Hackerrank](https://www.hackerrank.com/)
 
 ## Software and Extensions
 
