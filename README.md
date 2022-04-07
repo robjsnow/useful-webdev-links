@@ -67,7 +67,8 @@
 3. [Daily UI](https://www.dailyui.co/)
 4. [Javascript projects](https://zerotomastery.io/courses/javascript-projects/)
 5. [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
-6. [codewars](https://www.codewars.com/)
+6. [Codewars](https://www.codewars.com/)
+7. [Codingame](https://www.codingame.com/start)
 
 ## Software and Extensions
 
