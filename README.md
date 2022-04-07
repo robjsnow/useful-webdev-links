@@ -8,8 +8,7 @@
 4. [Roadmap for Backend](https://roadmap.sh/backend)
 5. [Roadmap for Frontend](https://roadmap.sh/frontend)
 6. [The Odin Project](https://www.theodinproject.com/)
-7. [Frontend Masters](https://frontendmasters.com/bootcamp/)
-8. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+7. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
 ## Games
 
@@ -40,11 +39,11 @@
 4. [HTML math symbols](https://www.toptal.com/designers/htmlarrows/math/)
 5. [Markup Validator](https://validator.w3.org/#validate_by_input/)
 6. [Pixel to EM converter](http://pxtoem.com/)
-7. [Emoji selector](https://emoji-button.js.org/)
+
 
 ## Design Tools
 
-1. [Library of Open-Source UX Design Resources](https://www.interaction-design.org/literature/)
+1. [Interaction Design](https://www.interaction-design.org/literature/)
 2. [RGB color codes](https://rgbcolorcode.com/)
 3. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
 4. [Google fonts](https://fonts.google.com)
@@ -57,7 +56,9 @@
 11. [Create customizable illustrations](https://blush.design)
 12. [Scalable vector icons customizable](https://fontawesome.com/)
 13. [Icon library and toolkit](https://fontawesome.com/)
-14. [SVG and CSS mesh gradient generator](https://www.color-morph.com/?ref=sidebar)
+14. [SVG and CSS mesh gradient generator](https://sidebar.io/domain/color-morph.com)
+15. [CSS button generator](https://css3buttongenerator.com/)
+16. [Emoji selector](https://emoji-button.js.org/)
 
 ## Coding Challenges
 
@@ -84,6 +85,7 @@
 ## Other / Misc
 
 1. [NPM package search](https://www.npmjs.com/)
+2. [REPL Read-Eval-Print-Loop JS](https://repljs.com/)
 
 ## Networking/job boards
 
@@ -91,9 +93,9 @@
 2. [Behance](https://www.behance.net/)
 3. [Dribbble](https://dribbble.com/)
 
-#UX/UI design
+## UX/UI design
 
-1. [Resources related to user experience](https://uxplanet.org/)
+1. [UX Planet](https://uxplanet.org/)
 
 ## Youtube Channels
 
