@@ -72,6 +72,7 @@
 6. [Codewars](https://www.codewars.com/)
 7. [Codingame](https://www.codingame.com/start)
 8. [Hackerrank](https://www.hackerrank.com/)
+9. [Codechef](https://www.codechef.com/)
 
 ## Software and Extensions
 
