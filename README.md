@@ -9,7 +9,7 @@
 5. [Roadmap for Frontend](https://roadmap.sh/frontend)
 6. [The Odin Project](https://www.theodinproject.com/)
 7. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-8. [Scaler](https://www.scaler.com/topics/javascript/
+8. [Scaler](https://www.scaler.com/topics/javascript/)
 9. [Exercism](https://exercism.org/)
 
 
