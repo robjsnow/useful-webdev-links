@@ -65,6 +65,7 @@
 18. [Animista](https://animista.net/)
 19. [Color Designer](https://colordesigner.io/gradient-generator)
 20. [Clippy](https://bennettfeely.com/clippy/)
+21. [Smooth Shadow](https://shadows.brumm.af/) 
 
 ## Coding Challenges
 
