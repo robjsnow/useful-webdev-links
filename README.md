@@ -64,6 +64,7 @@
 17. [Creative tim](https://www.creative-tim.com/)
 18. [Animista](https://animista.net/)
 19. [Color Designer](https://colordesigner.io/gradient-generator)
+20. [Clippy](https://bennettfeely.com/clippy/)
 
 ## Coding Challenges
 
