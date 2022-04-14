@@ -106,6 +106,7 @@
 ## UX/UI design
 
 1. [UX Planet](https://uxplanet.org/)
+2. [Accesibility cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 
 ## Youtube Channels
 
