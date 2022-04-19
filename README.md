@@ -82,15 +82,16 @@
 ## Software and Extensions
 
 1. [Bootstrap-A responsive HTML, CSS, and JS framework.](https://getbootstrap.com/)
-2. [Visual Studio Code Editor](https://code.visualstudio.com/)
-3. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-4. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-5. [Atom](https://atom.io/)
-6. [VSCode Extension: Javascript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-7. [VSCode Extension: Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-8. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-9. [VSCode Extension: Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-10. [VSCode Extension: ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+2. [Bootswatch](https://bootswatch.com/)
+3. [Visual Studio Code Editor](https://code.visualstudio.com/)
+4. [VSCode Extension: ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+5. [VSCode Extension: Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+6. [Atom](https://atom.io/)
+7. [VSCode Extension: Javascript snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+8. [VSCode Extension: Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+9. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+10. [VSCode Extension: Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+11. [VSCode Extension: ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ## Other / Misc
 
