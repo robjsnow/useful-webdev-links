@@ -116,6 +116,9 @@
 2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
 3. [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
+## Podcasts
+1. [UX Research Geeks](https://open.spotify.com/show/3u5eHC4nFDe395Gmij1BXA?si=fb562f4af823469f&nd=1)
+
 ### Contributors
 
 - Robert Snow
