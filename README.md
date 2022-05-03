@@ -110,6 +110,10 @@
 1. [UX Planet](https://uxplanet.org/)
 2. [Accesibility cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 
+## Tutorials
+
+1. [Google translatge button](https://www.geeksforgeeks.org/add-google-translate-button-webpage/)
+
 ## Youtube Channels
 
 1. [Google Developers](https://www.youtube.com/googlecode/videos)
