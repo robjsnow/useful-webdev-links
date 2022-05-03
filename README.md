@@ -112,7 +112,7 @@
 
 ## Tutorials
 
-1. [Google translatge button](https://www.geeksforgeeks.org/add-google-translate-button-webpage/)
+1. [Google translate button](https://www.geeksforgeeks.org/add-google-translate-button-webpage/)
 
 ## Youtube Channels
 
