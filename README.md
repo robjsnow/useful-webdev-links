@@ -46,7 +46,7 @@
 
 ## Design Tools
 
-1. [Interaction Design](https://www.interaction-design.org/literature/)
+1. [Interaction Designs](https://www.interaction-design.org/literature/)
 2. [RGB color codes](https://rgbcolorcode.com/)
 3. [Create a color palette](https://coolors.co/f26419-ffff66-306b34-100b00-17a398)
 4. [Google fonts](https://fonts.google.com)
