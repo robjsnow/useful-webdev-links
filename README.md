@@ -1,6 +1,7 @@
 # Useful web development links!
 
 ## Free Books
+1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Training
 
