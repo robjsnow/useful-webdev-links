@@ -107,6 +107,7 @@
 1. [Medium](https://medium.com/)
 2. [Behance](https://www.behance.net/)
 3. [Dribbble](https://dribbble.com/)
+4. [JsJobbs](https://jsjobbs.com/)
 
 ## UX/UI design
 
