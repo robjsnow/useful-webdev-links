@@ -96,6 +96,7 @@
 9. [VSCode Extension: Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 10. [VSCode Extension: Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 11. [VSCode Extension: ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+12. [jfelix.info](https://jfelix.info/blog/40-high-quality-free-resources-for-web-development)
 
 ## Other / Misc
 
