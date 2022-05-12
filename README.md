@@ -22,6 +22,7 @@
 2. [Flexbox froggy](https://flexboxfroggy.com/)
 3. [Flexbox zombie](https://mastery.games/post/flexboxzombies2/)
 4. [Flexbox Defense](http://www.flexboxdefense.com/)
+5. [CSS DIner](https://flukeout.github.io/)
 
 ## Reference Documents
 
