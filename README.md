@@ -102,6 +102,7 @@
 
 1. [NPM package search](https://www.npmjs.com/)
 2. [REPL Read-Eval-Print-Loop JS](https://repljs.com/)
+3. [HTTP Response Status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ## Networking/job boards
 
