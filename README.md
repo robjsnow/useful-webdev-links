@@ -15,6 +15,7 @@
 7. [CS50:Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 8. [Scaler](https://www.scaler.com/topics/javascript/)
 9. [Exercism](https://exercism.org/)
+10. [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript)
 
 
 ## Games
