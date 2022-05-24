@@ -41,6 +41,7 @@
 10. [Stack Overflow](https://stackoverflow.com/)
 11. [Web field Manual](https://webfieldmanual.com/code)
 12. [Open source dev resources](https://www.devresourc.es/)
+13. [Web Dev Resources](https://webdevresources.info/)
 
 ## Tools
 
