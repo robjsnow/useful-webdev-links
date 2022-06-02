@@ -78,7 +78,7 @@
 19. [Color Designers](https://colordesigner.io/gradient-generator)
 20. [Clippy](https://bennettfeely.com/clippy/)
 21. [Smooth Shadow](https://shadows.brumm.af/) 
-22. [color safe](http://colorsafe.co/)
+22. [Color safe](http://colorsafe.co/)
 
 ## Coding Challenges
 
