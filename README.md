@@ -42,6 +42,7 @@
 11. [Web field Manual](https://webfieldmanual.com/code)
 12. [Open source dev resources](https://www.devresourc.es/)
 13. [Web Dev Resources](https://webdevresources.info/)
+14. [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/)
 
 ## Tools
 
