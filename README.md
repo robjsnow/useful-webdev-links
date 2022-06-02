@@ -16,7 +16,7 @@
 8. [Scaler](https://www.scaler.com/topics/javascript/)
 9. [Exercism](https://exercism.org/)
 10. [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript)
-11. [microsoft docs web development](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming)
+11. [Microsoft Docs Learn web dev](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming)
 
 
 ## Games
