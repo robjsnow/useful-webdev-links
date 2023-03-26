@@ -144,7 +144,7 @@
 1. [UX Research Geeks](https://open.spotify.com/show/3u5eHC4nFDe395Gmij1BXA?si=fb562f4af823469f&nd=1)
 
 ## Free Hosting
-1. [Herokuapp](https://www.herokuapp.com/)
+1. [Deta Space](https://deta.space/)
 
 ### Contributors
 
