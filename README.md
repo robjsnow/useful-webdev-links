@@ -18,6 +18,7 @@
 10. [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript)
 11. [Microsoft Docs Learn web dev](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming)
 12. [Learn Web development](https://web.dev/learn/)
+13. [Code Wars](https://www.codewars.com/)
 
 
 ## Games
