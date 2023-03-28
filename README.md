@@ -18,7 +18,6 @@
 10. [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript)
 11. [Microsoft Docs Learn web dev](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming)
 12. [Learn Web development](https://web.dev/learn/)
-13. [Code Wars](https://www.codewars.com/)
 
 
 ## Games
@@ -134,6 +133,7 @@
 ## Tutorials
 
 1. [Google translate button](https://www.geeksforgeeks.org/add-google-translate-button-webpage/)
+2. [Set up Git] (https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ## Youtube Channels
 
