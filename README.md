@@ -133,7 +133,7 @@
 ## Tutorials
 
 1. [Google translate button](https://www.geeksforgeeks.org/add-google-translate-button-webpage/)
-2. [Set up Git] (https://docs.github.com/en/get-started/quickstart/set-up-git)
+2. [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
 ## Youtube Channels
 
