@@ -111,6 +111,7 @@
 11. [VSCode Extension: ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 12. [jfelix.info](https://jfelix.info/blog/40-high-quality-free-resources-for-web-development)
 13. [Node Version Mananger](https://github.com/nvm-sh/nvm/blob/master/README.md)
+14. [Thonny-A python IDE for beginners](https://thonny.org/)
 
 ## Other / Misc
 
