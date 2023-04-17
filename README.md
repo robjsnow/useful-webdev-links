@@ -1,5 +1,7 @@
 # Useful web development links!
 
+1. [ChatGPT](https://chat.openai.com/)
+
 ## Free Books
 1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 2. [React Books](https://freefrontend.com/reactjs-books/)
