@@ -5,7 +5,7 @@
 ## Free Books
 1. [Eloquent JavaScript](https://eloquentjavascript.net/)
 2. [React Books](https://freefrontend.com/reactjs-books/)
-3. [Think Python](https://greenteapress.com/wp/think-python-2e/)
+3. [Think Python 2nd Ed](https://greenteapress.com/wp/think-python-2e/)
 
 ## Training
 
