@@ -121,6 +121,7 @@
 1. [NPM package search](https://www.npmjs.com/)
 2. [REPL Read-Eval-Print-Loop JS](https://repljs.com/)
 3. [HTTP Response Status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+4. [Website Speed Test](https://tools.pingdom.com/)
 
 ## Networking/job boards
 
